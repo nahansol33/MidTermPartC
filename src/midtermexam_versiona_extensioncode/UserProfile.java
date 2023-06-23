@@ -13,6 +13,10 @@ package midtermexam_versiona_extensioncode;
  * code.
  * @author dancye, 2019
  */
+
+//This code is being used by Hansol Na, for the purpose of a Midterm. 
+//comments were added on Friday June 23, 2023 @ 1:26pm.
+
 public class UserProfile 
 {
     
